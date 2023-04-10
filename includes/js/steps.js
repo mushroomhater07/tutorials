@@ -1,7 +1,6 @@
 $(function(){
   stepCount = 0;
-  console.log('%ci12bretro', 'font-weight: 900; font-size: 40px; color: #f00; text-shadow: 3px 3px 0 #000, 4px 4px 0 #fff; border-bottom: 8px double #f00; padding: 0 8px;');
-  console.log('%chttps://youtube.com/c/i12bretro', 'font-size: 9px; margin-left: 60px;');
+  console.log('%cHey', 'font-weight: 900; font-size: 40px; color: #f00; text-shadow: 3px 3px 0 #000, 4px 4px 0 #fff; border-bottom: 8px double #f00; padding: 0 8px;');
   stepsText = [];
   $('textarea').each(function(i,e){
     theTextarea = $(this);
